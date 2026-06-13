@@ -13,13 +13,13 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:nikhil.vish847@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Nikhilvish-droid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=800080&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=8A2BE2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=flat-square&color=4B0082" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Nikhilvish-droid&label=Profile%20Views&color=800080&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Nikhilvish-droid?label=Followers&style=flat-square&color=8A2BE2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Nikhilvish-droid?style=flat-square&color=4B0082" alt="Stars" />
 </div>
 
 ---
@@ -41,15 +41,23 @@ My goal is to become a Machine Learning Engineer and Generative AI Engineer, and
 <div align="center">
   <p><strong>Languages</strong></p>
   <img src="https://skillicons.dev/icons?i=python,java,html,css" alt="Languages" />
+  <br>
+  <sub>Python • Java • HTML • CSS</sub>
 
   <p><strong>Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+  <br>
+  <sub>HTML • CSS • JavaScript</sub>
 
   <p><strong>Backend & Databases</strong></p>
   <img src="https://skillicons.dev/icons?i=flask,mysql" alt="Backend" />
+  <br>
+  <sub>Flask • MySQL</sub>
 
   <p><strong>Cloud, DevOps & Tooling</strong></p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,linux" alt="Cloud & DevOps" />
+  <br>
+  <sub>Git • GitHub • Vercel • Linux</sub>
 </div>
 
 ---
@@ -75,7 +83,7 @@ An intelligent Python-based AI assistant designed to automate tasks and explore 
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, AI Libraries | Local App | Low Latency | Local Execution | Workflow Automation | [View on GitHub](#) |
+| Python, AI Libraries | Local App | Low Latency | Local Execution | Workflow Automation | [View on GitHub](https://github.com/Nikhilvish-droid) |
 
 Developed a personal AI system to experiment with natural language processing and task automation. The project serves as a practical implementation of my ongoing studies in Generative AI and intelligent system design.
 </details>
@@ -88,7 +96,7 @@ A machine learning application that accurately predicts house prices in Californ
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Scikit-learn, Matplotlib | City-wide Data | High Accuracy | Standard | Streamlined data pipelines | [View on GitHub](#) |
+| Python, Scikit-learn, Matplotlib | City-wide Data | High Accuracy | Standard | Streamlined data pipelines | [View on GitHub](https://github.com/Nikhilvish-droid) |
 
 Built using RandomForestRegressor, the model integrates complex machine learning workflows for accurate price estimation. Conducted thorough exploratory data analysis (EDA) using Matplotlib and implemented robust data transformations, exporting the final model for deployment.
 </details>
@@ -101,7 +109,7 @@ A full-stack web interface predicting real-time bus arrival times using a traine
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Flask, HTML/CSS, Vercel | Live Transit Data | Real-time | Vercel Secured | Improved commuter UX | [View on GitHub](#) |
+| Python, Flask, HTML/CSS, Vercel | Live Transit Data | Real-time | Vercel Secured | Improved commuter UX | [View on GitHub](https://github.com/Nikhilvish-droid) |
 
 Developed a real-time predictive model utilizing RandomForestRegressor to solve real-world transit problems. Deployed seamlessly as a full-stack application using Flask for the backend, styled with HTML/CSS, and hosted on Vercel to ensure a responsive user experience.
 </details>
@@ -114,7 +122,7 @@ A curated collection of LeetCode questions and optimized solutions designed to a
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python | Repository | O(1) Access | N/A | Educational Resource | [View on GitHub](#) |
+| Python | Repository | O(1) Access | N/A | Educational Resource | [View on GitHub](https://github.com/Nikhilvish-droid) |
 
 Created using LeetHub v2 to systematically track problem-solving progress. This repository highlights my strong analytical capabilities and continuous dedication to mastering Data Structures and Algorithms.
 </details>
@@ -175,10 +183,10 @@ Focused on rigorous academic and practical engineering challenges, developing sc
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilvish-droid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilvish-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" alt="GitHub Streak" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilvish-droid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -186,7 +194,7 @@ Focused on rigorous academic and practical engineering challenges, developing sc
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhilvish-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -194,7 +202,7 @@ Focused on rigorous academic and practical engineering challenges, developing sc
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=8A2BE2" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilvish-droid&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=8A2BE2" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -202,7 +210,7 @@ Focused on rigorous academic and practical engineering challenges, developing sc
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Nikhilvish-droid/Nikhilvish-droid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
