@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Nikhil Vishwakarma**. I am a first-year student at Thakur College of Engineering, currently pursuing a B.E. in Computer Science. I am passionate about technology and strongly interested in the fields of Machine Learning and Generative AI.
+Hi, I'm **Nikhil Vishwakarma** second-year student at Thakur College of Engineering, currently pursuing a B.E. in Computer Science. I am passionate about technology and strongly interested in the fields of Machine Learning and Generative AI.
 
 I am currently learning Machine Learning workflows, exploring how data is processed, models are built, trained, and deployed to solve real-world problems. I enjoy building projects, experimenting with new tools, and continuously improving my skills in AI and software development. 
 
@@ -36,28 +36,31 @@ My goal is to become a Machine Learning Engineer and Generative AI Engineer, and
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Coding Languages and Skills
 
 <div align="center">
-  <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css" alt="Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <br>
-  <sub>Python • Java • HTML • CSS</sub>
-
-  <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <br>
-  <sub>HTML • CSS • JavaScript</sub>
-
-  <p><strong>Backend & Databases</strong></p>
-  <img src="https://skillicons.dev/icons?i=flask,mysql" alt="Backend" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <br>
-  <sub>Flask • MySQL</sub>
-
-  <p><strong>Cloud, DevOps & Tooling</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Cloud & DevOps" />
-  <br>
-  <sub>Git • GitHub • Vercel</sub>
+  <img src="https://img.shields.io/badge/Data_Analytics-8A2BE2?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Machine_Learning-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="Machine Learning" />
 </div>
 
 ---
@@ -159,8 +162,10 @@ Focused on rigorous academic and practical engineering challenges, developing sc
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Codolio-800080?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Codolio" /></a>
 </div>
 
 ---
@@ -176,10 +181,28 @@ Focused on rigorous academic and practical engineering challenges, developing sc
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhilvish-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📊 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilvish-droid&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=8A2BE2" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+*(Note: To make the Contribution Snake animation visible, ensure you have set up the `snk` GitHub Action in your `.github/workflows` folder. The image will load automatically once the action completes its first run.)*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nikhilvish-droid/Nikhilvish-droid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
