@@ -55,9 +55,9 @@ My goal is to become a Machine Learning Engineer and Generative AI Engineer, and
   <sub>Flask • MySQL</sub>
 
   <p><strong>Cloud, DevOps & Tooling</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Cloud & DevOps" />
   <br>
-  <sub>Git • GitHub • Vercel • Linux</sub>
+  <sub>Git • GitHub • Vercel</sub>
 </div>
 
 ---
@@ -143,21 +143,6 @@ Focused on rigorous academic and practical engineering challenges, developing sc
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :---: | :--- |
-| **MHTCET Excellence** | Scored **98.41 percentile** in the Maharashtra Common Entrance Test. |
-| **JEE Performance** | Achieved **95.47 percentile** in the Joint Entrance Examination. |
-| **S.S.C Distinction** | Passed Maharashtra State Board Secondary Exam with **94.00%**. |
-| **H.S.C Distinction** | Passed Maharashtra State Board Higher Secondary Exam with **83.83%**. |
-
-</div>
-
----
-
 ## 📜 Certifications
 
 <div align="center">
@@ -191,26 +176,10 @@ Focused on rigorous academic and practical engineering challenges, developing sc
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhilvish-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilvish-droid&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=8A2BE2" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nikhilvish-droid/Nikhilvish-droid/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
